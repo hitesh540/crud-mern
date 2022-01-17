@@ -46,7 +46,7 @@ const App = () => {
             }
           </div>
         </div>
-        <a href="#">Made with ❤ By Hitesh Borse</a>
+        <a href="#">Made with ❤ By Shubham Patil</a>
       </div>
     </Store.Provider>
   );
